@@ -64,16 +64,13 @@ The system is designed as a **foundation layer**, extensible to future job-match
 
 ---
 
-## 🏗️ System Architecture
-Frontend (React + TS) 
-    ↓ 
-Flask REST API 
-    ↓ 
-Resume Parser & Optimizer (NLP) 
-    ↓ 
-ATS Scoring Engine 
-    ↓ 
-PostgreSQL Database
+## 🏗️ Architecture Diagram
+
+User → React Frontend  
+     → Flask API  
+     → Resume Optimizer  
+     → ATS Scoring Engine  
+     → PostgreSQL
 
 ---
 

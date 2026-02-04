@@ -4,7 +4,7 @@ Transitioning from military service to the corporate workforce is not a lack-of-
 
 Corporate hiring platforms and ATS (Applicant Tracking Systems) are not designed to understand military terminology, ranks, or operational experience. As a result, highly skilled ex-servicemen are often filtered out despite being strong candidates.
 
-**Career Bridge for Ex-Servicemen** addresses this gap.
+**shield-ats-optimizer** addresses this gap.
 
 ---
 
